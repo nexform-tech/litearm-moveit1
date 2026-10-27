@@ -25,7 +25,7 @@ MoveIt 1 integration on ROS 1 for the **LiteArm robotic manipulator series**.
 ## Repository standards
 
 This repository follows the shared NEXFORM ROBOTICS repository standards: the
-agent operating rules in [AGENTS.md](AGENTS.md), Conventional Commits, and
+agent operating rules in [`.nexform-standards.json`](.nexform-standards.json), Conventional Commits, and
 automated semantic-release versioning on every merge to `main`.
 
 ## License
